@@ -1,0 +1,9 @@
+2022-10-12 17:39:45,327  INFO [main] addtoCart:24 - login to flipkart
+2022-10-12 17:39:47,681  INFO [main] addtoCart:30 - Searching on flipkart
+2022-10-12 17:39:50,033  INFO [main] addtoCart:37 - Setup selenium to access new tab
+2022-10-12 17:39:50,057  INFO [main] addtoCart:44 - adding item to cart
+2022-10-12 17:39:54,126 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-12 17:39:54,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-12 17:39:54,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-12 17:39:54,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-12 17:39:54,141 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sweetychoudhary/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
